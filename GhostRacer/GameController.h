@@ -1,3 +1,5 @@
+// This file written by Professors Carey Nachenberg and David Smallberg for CS32 Student use in Project 3.  
+
 #ifndef GAMECONTROLLER_H_
 #define GAMECONTROLLER_H_
 
