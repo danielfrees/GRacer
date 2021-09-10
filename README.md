@@ -6,35 +6,24 @@ From Carey Nachenberg's spec:
 
 Controls:
 
-● Left arrow key or the ‘a’ key: Turns the Ghost Racer steering wheel left
-
-● Right arrow key or the ‘d’ key: Turns the Ghost Racer steering wheel right
-
-● Up arrow key or the ‘w’ key: Speeds the Ghost Racer up
-
-● Down arrow key or the ‘s’ key: Slows the Ghost Racer down
-
-● Space bar: Fires holy water, if Ghost Racer has any left
-
-● The ‘q’ key: Quits the game
-
-● The ‘f’ key: Causes the game to run one tick at a time for debugging
+● Left arrow key or the ‘a’ key: Turns the Ghost Racer steering wheel left\
+● Right arrow key or the ‘d’ key: Turns the Ghost Racer steering wheel right\
+● Up arrow key or the ‘w’ key: Speeds the Ghost Racer up\
+● Down arrow key or the ‘s’ key: Slows the Ghost Racer down\
+● Space bar: Fires holy water, if Ghost Racer has any left\
+● The ‘q’ key: Quits the game\
+● The ‘f’ key: Causes the game to run one tick at a time for debugging\
 
 
 Points are awarded as follows:
 
-● When Ghost Racer disposes of a zombie pedestrian: 150 points
-
-● When Ghost Racer disposes of a zombie cab: 200 points
-
-● When Ghost Racer saves a soul: 100 points
-
-● When Ghost Racer picks up a holy water refill goodie: 50 points
-
-● When Ghost Racer picks up a healing goodie: 250 points
-
+● When Ghost Racer disposes of a zombie pedestrian: 150 points \
+● When Ghost Racer disposes of a zombie cab: 200 points\
+● When Ghost Racer saves a soul: 100 points\
+● When Ghost Racer picks up a holy water refill goodie: 50 points\
+● When Ghost Racer picks up a healing goodie: 250 points\
 ● Bonus points for finishing the level quickly: max of 5000 (goes down as the game
-progresses)
+progresses)\
 
 
 MY WORK: 
