@@ -1,3 +1,5 @@
+// Written by Profs of CS32 for student use. 
+
 #ifndef GAMECONSTANTS_H_
 #define GAMECONSTANTS_H_
 
