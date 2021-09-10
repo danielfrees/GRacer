@@ -1,3 +1,5 @@
+// This file written by Professors Carey Nachenberg and David Smallberg for CS32 Student use in Project 3.  
+
 #ifndef GAMEWORLD_H_
 #define GAMEWORLD_H_
 
