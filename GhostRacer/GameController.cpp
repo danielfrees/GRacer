@@ -1,3 +1,5 @@
+// This file written by Professors Carey Nachenberg and David Smallberg for CS32 Student use in Project 3.  
+
 #include "freeglut.h"
 #include "GameController.h"
 #include "GameWorld.h"
