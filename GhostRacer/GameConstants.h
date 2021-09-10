@@ -1,4 +1,4 @@
-// Written by Profs of CS32 for student use. 
+// This file written by Professors Carey Nachenberg and David Smallberg for CS32 Student use in Project 3.  
 
 #ifndef GAMECONSTANTS_H_
 #define GAMECONSTANTS_H_
